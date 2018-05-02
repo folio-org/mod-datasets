@@ -1,0 +1,7 @@
+{
+    "descriptor": {
+        "exec": "/usr/local/glint/bin/glintserver run --port %p"
+    },
+    "nodeId": "localhost",
+    "srvcId": "datasets-0.1.0"
+}
